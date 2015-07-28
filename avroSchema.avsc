@@ -1,8 +1,0 @@
-{"type": "record",
-"name": "Pair",
-"doc": "A pair of strings.",
-"fields": [
-	  {"name": "employee", "type": "string"},
-	  {"name": "department", "type": "string"}
-	]
-}
